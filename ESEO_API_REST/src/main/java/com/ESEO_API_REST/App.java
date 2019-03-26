@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  *
  */
 @SpringBootApplication
-//@RequestMapping("/path")
+// @RequestMapping("/path")
 public class App 
 {
     public static void main( String[] args )
